@@ -1,0 +1,50 @@
+{
+    "name": "🔱 𝐙𝐄 🔱",
+    "description": "بوت تجميع نقاط",
+    "stack": "container",
+    "logo": "https://graph.org/file/5bc8daaefa9f7979cc8b7.jpg",
+    "repository": "https://github.com/modymesourceze/collect",
+    "keywords": [
+        "python",
+        "chatbot",
+        "telegrambot"
+    ],
+    "website": "https://github.com/modymesourceze/collect",
+    "env": {
+        "API_ID": {
+            "description": "26004411",
+            "value": "",
+            "required": true
+        },
+        "API_HASH": {
+            "description": "4b9a73c02e89da49ef7f7df8a7e30f65",
+            "value": "",
+            "required": true
+        },
+        "OWNER": {
+            "description": "6798245975",
+            "value": "",
+            "required": true
+        },
+        "ELHYBA": {
+            "description": "6720857511:AAEgLIT3fT751_jsMJwr8hr5KI-Qrgly0VA",
+            "value": "",
+            "required": true
+        },
+        "USER_BOT": {
+            "description": "Gkyjjbvvbot",
+            "value": "",
+            "required": true
+        },
+        "ID_BOT": {
+            "description": "6798245975",
+            "value": "",
+            "required": true
+        },
+        "MAX_ACCOUNTS": {
+            "description": "1",
+            "value": "",
+            "required": true
+    }
+  }
+} 

@@ -1,0 +1,19 @@
+import os
+
+
+class Mody(object):
+    ELHYBA = os.environ.get("ELHYBA", "")
+    
+    OWNER = os.environ.get("OWNER", "6798245975")
+    
+    ID_BOT = int(os.environ.get("ID_BOT", "6798245975"))
+    
+    USER_BOT = os.environ.get("USER_BOT", "6720857511:AAEgLIT3fT751_jsMJwr8hr5KI-Qrgly0VA")
+    
+    MAX_ACCOUNTS = int(os.environ.get("MAX_ACCOUNTS", "1"))
+    
+    API_ID = os.environ.get("API_ID", "26004411")
+    
+    API_HASH = os.environ.get("API_HASH", "4b9a73c02e89da49ef7f7df8a7e30f65")
+    
+
